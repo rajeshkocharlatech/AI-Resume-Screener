@@ -1,0 +1,4 @@
+pip install google-generativeai langchain-google-genai langchain-community python-dotenv
+pip install streamlit chromadb pypdf docx2txt
+
+streamlit run app.py   OR python -m streamlit run app.py
