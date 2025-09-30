@@ -1,9 +1,12 @@
 # AI-Resume-Screener
 AI-Resume-Screener helps to analyze resume based on job description
 
+<img width="733" height="686" alt="image" src="https://github.com/user-attachments/assets/4b2fa48f-2a16-4637-950c-ceb97884f9a1" />
+
+
+
 **AI Resume Screener – Powered by Gemini and RAG**
 Introduction
-
 Recruitment is a time-consuming and resource-intensive process. HR professionals often sift through hundreds or even thousands of resumes to find the right candidate for a specific job role. Traditional screening involves keyword searches, manual filtering, and subjective evaluation, which can be slow, inconsistent, and prone to human bias.
 To solve these challenges, the AI Resume Screener leverages modern Large Language Models (LLMs), embeddings, and vector databases to automate resume analysis and candidate-job matching. Built with Google’s Gemini models, LangChain, and Streamlit, the system provides a smart, AI-powered platform that evaluates resumes, generates structured insights, and allows natural language querying over stored resumes.
 This project combines retrieval-augmented generation (RAG) with semantic search to not only analyze individual resumes but also build a knowledge base of resumes that recruiters can query intelligently.
